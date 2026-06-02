@@ -1,0 +1,18 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment folder
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local packet captures or logs your IDS might generate
+*.pcap
+*.log
